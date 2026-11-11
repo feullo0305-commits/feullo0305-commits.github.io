@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DELETE — Found a treasure in the dirty sea</title>
+  <meta name="description" content="DELETE는 해양 플라스틱과 폐어망에 새로운 쓰임을 더하는 업사이클 키캡 브랜드입니다.">
+  <link rel="icon" href="./images/delete-logo.png">
+  <link rel="stylesheet" href="./assets/styles.css">
+  <script src="./assets/site.js" defer></script>
+  <link rel="preload" as="image" href="./images/delete-logo.png"/><link rel="preload" as="image" href="./images/keyboard-sky.webp" fetchPriority="high"/><link rel="preload" as="image" href="./images/keyboard-violet.webp" fetchPriority="high"/>
+</head>
+<body><a class="skip" href="#main">본문으로 건너뛰기</a>
+<header class="site-header"><div class="wrap header-inner"><a class="logo" href="./index.html" aria-label="DELETE 홈"><img src="./images/delete-logo.png" width="54" height="55" alt="DELETE"/></a><nav aria-label="주 메뉴"><a href="./index.html" aria-current="page">HOME</a><a href="./our-story/index.html">OUR STORY</a><a href="./product/index.html">PRODUCT</a><a href="./contact/index.html">CONTACT</a><a class="cart-link" href="./cart/index.html" aria-label="장바구니, 상품 0개"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 8h14l1 13H4L5 8Z M9 9V6a3 3 0 0 1 6 0v3"></path></svg><span class="cart-link-label" aria-hidden="true">CART</span><span class="cart-badge" aria-hidden="true">0</span></a></nav></div>
+</header>
+<main id="main">
+<section class="intro-hero"><div class="wrap intro-hero-inner"><div class="hero-copy"><p class="eyebrow"><span class="marker"></span> OCEAN UPCYCLING KEYCAPS</p><h1 lang="en">Found a treasure in the dirty sea</h1><p class="hero-subtitle">바다에서 건져 올린, 새로운 보물.</p><p class="hero-lead">바다에 버려진 플라스틱이 새로운 일상의 가치를 만납니다.<br class="desktop-break"/> 해양 플라스틱과 폐어망에서 시작된 키캡을 만나보세요.</p><div class="actions"><a class="action" href="./product/index.html">EXPLORE PRODUCT<span aria-hidden="true">↗</span></a><a class="action outline" href="./our-story/index.html">OUR STORY<span aria-hidden="true">↗</span></a></div></div><figure class="home-showcase"><div class="home-boards"><img src="./images/keyboard-sky.webp" alt="흰색 문자 키와 파스텔 블루 포인트 키를 장착한 키보드" width="1574" height="510" loading="eager" fetchPriority="high"/><img src="./images/keyboard-violet.webp" alt="흰색 문자 키와 바이올렛 포인트 키를 장착한 키보드" width="1666" height="520" loading="eager" fetchPriority="high"/></div><figcaption>DELETE KEYCAP <span>PASTEL BLUE / VIOLET</span></figcaption></figure></div>
+</section>
+<section class="section wrap home-story"><figure class="ocean-photo "><img src="./images/ocean.webp" alt="짙은 푸른 바다 위에 흰 물결이 비스듬히 부서지는 모습" loading="lazy"/></figure><div><div class="section-title"><p class="eyebrow">01 / BRAND INTRODUCTION</p><h2 lang="en">A NEW VALUE FROM THE OCEAN.</h2><p class="subtitle">버려진 것에서 발견하는 새로운 가능성.</p></div><div class="copy"><p>매일 사용하고 버리는 물건 중 일부는 바다로 흘러 들어가 오랜 시간 남습니다. DELETE는 한 번 사용된 플라스틱이 새로운 제품의 소재가 될 수 있다는 가능성에 주목했습니다.</p><p>그 가능성을 매일 손이 닿는 키캡에 담았습니다. 파도가 남긴 흔적을 일상의 작은 물건에 담아, 버려진 자원에서 새로운 아름다움과 쓰임을 발견하는 경험을 전합니다.</p></div><a class="action outline" href="./our-story/index.html">READ OUR STORY<span aria-hidden="true">↗</span></a></div>
+</section>
+<section class="section feature"><div class="wrap feature-grid"><div><div class="section-title"><p class="eyebrow">02 / FEATURED PRODUCT</p><h2 lang="en">MEET THE DELETE KEYCAP.</h2><p class="subtitle">바다의 푸른 색을 담은 키캡.</p></div><div class="copy"><p>DELETE Keycap은 해양 플라스틱 업사이클링이라는 브랜드 철학을 담은 Cherry Profile 풀 구성 키캡 세트입니다.</p><p>화이트를 바탕으로 파스텔 블루와 바이올렛, 두 가지 버전을 준비했습니다. 단색 키캡과 간결한 문자 각인으로 매일 쓰는 키보드의 분위기를 바꿔보세요.</p></div><a class="action" href="./product/index.html">VIEW PRODUCT<span aria-hidden="true">↗</span></a></div><figure class="keyboard-plate"><span class="eyebrow">DELETE KEYCAP / CHERRY PROFILE</span><img src="./images/keyboard-sky.webp" alt="흰색 문자 키와 파스텔 블루 포인트 키를 장착한 키보드" width="1574" height="510" loading="lazy"/><figcaption class="plate-caption">01 / PASTEL BLUE</figcaption></figure></div>
+</section>
+</main>
+<footer class="site-footer"><div class="wrap"><div class="footer-main"><a class="footer-brand" href="./index.html"><img src="./images/delete-logo.png" width="61" height="62" alt="DELETE"/><span>바다에서 시작해,<br/>일상으로 이어집니다.</span></a><nav aria-label="하단 메뉴"><a href="./index.html" aria-current="page">HOME</a><a href="./our-story/index.html">OUR STORY</a><a href="./product/index.html">PRODUCT</a><a href="./contact/index.html">CONTACT</a></nav></div><div class="footer-base"><span>OCEAN UPCYCLING KEYCAP DESIGN</span><span>© DELETE</span></div></div>
+</footer>
+</body>
+</html>
